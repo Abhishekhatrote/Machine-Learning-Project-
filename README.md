@@ -1,4 +1,6 @@
-#Credit Card Approval Prediction
+Credit Card Approval Prediction
+
+
 Overview
 This project focuses on predicting credit card approval using data-driven methods and machine learning models. The goal is to assist banks in efficiently processing credit card applications, minimizing the risk of default, and improving overall decision-making.
 
